@@ -3,6 +3,7 @@
     <string name="sick_dog">Squeeze the dog to help him poop</string>
     <string name="pick_up">Pick up the poop</string>
     <string name="leave_poop">No! Ew</string>
+    <string name="happy_dog">Thank you for picking up my poop :)</string>
 <!--    <string name="boy_happy_dog">Good boy</string>-->
 <!--    <string name="girl_happy_dog">Good girl</string>-->
     <string name="dead_dog">Your dog died</string>
